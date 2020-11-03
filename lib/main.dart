@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
               onPressed: retrieveData,
             ),
             RaisedButton(
-              child: Text("Fetch All Data"),
+              child: Text("Display All Data"),
               color: Colors.deepOrange,
               textColor: Colors.white,
               onPressed: (){
