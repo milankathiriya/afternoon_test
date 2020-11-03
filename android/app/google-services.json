@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736241257416",
+    "firebase_url": "https://afternoon-db-app.firebaseio.com",
+    "project_id": "afternoon-db-app",
+    "storage_bucket": "afternoon-db-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736241257416:android:8450912c46de0377f60efd",
+        "android_client_info": {
+          "package_name": "com.rnw.afternoon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736241257416-p5sj24ppktrckhmsap7age3u0ulcnjtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnw.afternoon_app",
+            "certificate_hash": "98a85680e867aa32ead81ca7eedfcedef88cd350"
+          }
+        },
+        {
+          "client_id": "736241257416-e15qg0ifst62fkbl9sko1h5uf2ble7ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiEkw02gK6d4nsjJkBqIv_lO4JyXtIKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736241257416-e15qg0ifst62fkbl9sko1h5uf2ble7ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
